@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas Goitia</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 🌱 I’m currently studying  **Full stack developer in Platzi **
+- 🌱 I’m currently studying  **Full stack developer in Platzi**
 
 - 👯 I’m looking to collaborate on **Innovative projects**
 
@@ -10,6 +10,8 @@
 - 💬 Ask me about **Javascript** 
 
 - 📫 How to reach me **nicolasgoitia10@gmail.com**
+
+- 🔭 All of my certifications are available at [https://platzi.com/p/nicolas4746/](https://platzi.com/p/nicolas4746/)
 
 <h3 align="left">Connect with me:</h3>
 <div>
