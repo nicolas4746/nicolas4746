@@ -1,26 +1,26 @@
-<h1 align="center">Hi 👋, I'm Darío</h1>
-<h3 align="center">A passionate frontend developer from Boliva</h3>
+<h1 align="center">Hi 👋, I'm </h1>
+<h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hdariodev&label=Profile%20views&color=0e75b6&style=flat" alt="hdariodev" /> </p>
+<p align="left"> <img src="" alt="hdariodev" /> </p>
 
-- 🔭 I’m currently working on **Exxis-group SA** business one intelligence
+- 🔭 I’m currently working on **** business one intelligence
 
-- 🌱 I’m currently learning **Kotlin and Python**
+- 🌱 I’m currently learning ****
 
-- 👯 I’m looking to collaborate on **Innovative projects**
+- 👯 I’m looking to collaborate on ****
 
-- 👨‍💻 All of my projects are available at [https://hdariodev.com/](https://hdariodev.com/)
+- 👨‍💻 All of my projects are available at [https:///](https:///)
 
-- 💬 Ask me about **Javascript** **android**
+- 💬 Ask me about **Javascript** 
 
-- 📫 How to reach me **dario.humerez.dev@gmail.com**
+- 📫 How to reach me ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hdariodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hdariodev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hdariodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hdariodev" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hdariodev" height="30" width="40" /></a>
+<a href="https://linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hdariodev" height="30" width="40" /></a>
 
-<a href="https://instagram.com/hdariodev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hdariodev" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hdariodev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
